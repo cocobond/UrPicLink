@@ -1,0 +1,29 @@
+# 二进制文件
+urpicbed
+urpicbed.exe
+
+# 依赖目录
+vendor/
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# 环境变量文件
+.env
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Docker相关
+.dockerignore 
